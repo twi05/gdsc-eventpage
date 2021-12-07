@@ -1,1 +1,1 @@
-# gdsc-eventpage
+# RCOEM-Google-DSC-Website
